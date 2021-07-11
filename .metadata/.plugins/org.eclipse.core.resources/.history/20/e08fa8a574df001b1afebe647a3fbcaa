@@ -1,0 +1,14 @@
+package main;
+
+public class string {
+
+	public static void main(String[] args) {
+		
+		String mensaje = "aca va el primer string";
+		System.out.println(mensaje);
+		
+		
+		
+	}
+
+}

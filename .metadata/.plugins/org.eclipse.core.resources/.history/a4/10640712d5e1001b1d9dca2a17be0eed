@@ -1,0 +1,15 @@
+package main;
+
+public class string2 {
+
+	public static void main(String[] args) {
+		
+		String mensaje = "";
+		
+		mensaje = String.format("Bienvenido a mi Github perteneciente a %s", "Brenda ");
+		
+		System.out.println(mensaje);
+
+	}
+
+}

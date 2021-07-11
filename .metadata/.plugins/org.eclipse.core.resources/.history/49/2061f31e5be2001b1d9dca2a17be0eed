@@ -1,0 +1,12 @@
+package main;
+
+public class StringComprasiones {
+
+	public static void main(String[] args) {
+		
+		String cadena1 = "Hola";
+		String cadena2 = "Hola";
+
+	}
+
+}

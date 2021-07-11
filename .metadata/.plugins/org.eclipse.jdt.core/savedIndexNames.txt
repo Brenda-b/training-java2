@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\lenovo\Documents\github\Training-java\.metadata\.plugins\org.eclipse.jdt.core
+2895242668.index
+794945367.index
+1372146305.index
+2929813997.index
+3251249088.index

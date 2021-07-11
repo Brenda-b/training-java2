@@ -1,0 +1,16 @@
+package main;
+
+public class operadorLogico {
+
+	public static void main(String[] args) {
+		
+		boolean resultado;
+		
+		resultado= 5 >= 5 && true && 10 < 9;
+		System.out.println(resultado);
+		
+		
+
+	}
+
+}
